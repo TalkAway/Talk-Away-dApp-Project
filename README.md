@@ -20,3 +20,7 @@ A separate interface will be created on the talk away website for the NFT store,
 Product types:
 
 Live classes to be scheduled on the website and pre-recorded classes available for sale online.
+
+DAPP PROJECT 
+
+https://github.com/TalkAway/Talk-Away-dApp-Project/blob/main/%20Talk%20Away%20dApp_-2.pdf
