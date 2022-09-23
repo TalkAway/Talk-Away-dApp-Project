@@ -24,3 +24,7 @@ Live classes to be scheduled on the website and pre-recorded classes available f
 DAPP PROJECT 
 
 https://github.com/TalkAway/Talk-Away-dApp-Project/blob/main/%20Talk%20Away%20dApp_-2.pdf
+
+ROADMAP FOR SEED COMPLETE STAGE 
+
+https://talkawaylanguage.com/wp-content/uploads/2022/09/Roadmap_talkAway-6.pdf
