@@ -1,6 +1,18 @@
 # Talk-Away-dApp-Project
 Code repository for future dApp Talk Away code
 
+Project Name: Talk Away dApp Project
+Team Name: Talk Away
+Payment Address: talkaway.near
+
+Registered Address: Rua Joaquim Murtinho 700/s204 - Rio de Janeiro/RJ - post code 20241-320 
+Registered Legal Entity: Polvo Criações Inova Simples (startup number registration: 46.008.424/0001-01) - Talk Away (brand name)
+
+
+DAPP PROJECT 
+
+https://github.com/TalkAway/Talk-Away-dApp-Project/blob/main/%20Talk%20Away%20dApp_-2.pdf
+
 DAPP FUNCTIONS 
 
 Function for payment in Near. The payment will be passed on to the teacher only after confirmation that the lesson has been held. An intelligent contract will be created to manage the payment of the lesson and distribution of the payment between the teacher and Talk Away.
@@ -21,9 +33,7 @@ Product types:
 
 Live classes to be scheduled on the website and pre-recorded classes available for sale online.
 
-DAPP PROJECT 
 
-https://github.com/TalkAway/Talk-Away-dApp-Project/blob/main/%20Talk%20Away%20dApp_-2.pdf
 
 ROADMAP FOR SEED COMPLETE STAGE 
 
