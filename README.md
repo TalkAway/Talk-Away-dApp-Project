@@ -27,7 +27,9 @@ The Dapp will also have a lesson scheduling function between tutor and student.
 
 Students and tutors will be able to create NFTS in the Talk Away store that will use the tools provided by Mintbase. They will be added as minters in the Talk Away store in Mintbase.
 
-A separate interface will be created on the talk away website for the NFT store, and the mintbase API will be used.
+A interface will be created on the talk away website for the NFT store, and the mintbase API will be used. We would like that all the payment process will be inside of the site and the user don't need to leave for mintbase site for this. 
+
+We will use the mintbase API for connect wallet.
 
 Product types:
 
