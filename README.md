@@ -39,4 +39,4 @@ Live classes to be scheduled on the website and pre-recorded classes available f
 
 ROADMAP FOR SEED COMPLETE STAGE 
 
-https://talkawaylanguage.com/wp-content/uploads/2022/09/Roadmap_talkAway-6.pdf
+https://talkawaylanguage.com/wp-content/uploads/2022/10/Action-Plan.pdf 
